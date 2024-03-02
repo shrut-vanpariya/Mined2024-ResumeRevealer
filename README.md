@@ -22,6 +22,9 @@ This project is designed to extract text from various types of files including t
 
 5. Download the pre-trained SpaCy model and place it in the project directory.
 
+> Download model from [here](https://drive.google.com/file/d/1EsAMBenHshck-1jEEp_y7dItoNt5z6ek/view?usp=sharing) and tools from [here](https://drive.google.com/file/d/13kk86FWz6tNJ1U_L-b-_e2xOObsgYRA8/view?usp=sharing).  
+> **add this folders directly into you project folder.**
+
 ## Usage
 
 To use this tool, simply run the `main.py` file with the path to the file you want to extract text from as an argument.
